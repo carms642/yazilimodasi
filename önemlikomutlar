@@ -70,7 +70,8 @@ atop - merges previous elements into a single overview
 slabtop – displays a listing of the top caches
 ===========================================================================================
 Dosya Bulma
-find . -iname ‘*’ | xargs grep ‘hctbilisim’ -sl  ->KELIME ARAMA
+find / -iname "*" | xargs grep "yazilimodasi" -sl
+ ->KELIME ARAMA
 ===========================================================================================
 
 alias yeni_komut="kodlarınız buraya"
